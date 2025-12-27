@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "unzipper": "^0.12.3",
+    "formidable": "^3.5.1"
+  }
+}
